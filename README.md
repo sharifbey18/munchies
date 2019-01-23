@@ -1,2 +1,2 @@
-# munchies
-recipe app
+# Munchies
+Group Project 1
